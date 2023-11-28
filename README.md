@@ -7,27 +7,14 @@ Ce projet consiste en une application Python interactive regroupant plusieurs mi
 * Puissance 4 : Un jeu tactique où les joueurs insèrent à tour de rôle des jetons dans une grille, visant à aligner quatre jetons de leur couleur, que ce soit horizontalement, verticalement, ou en diagonale.
 
   ## Compétences : 
-Développement d'applications logicielles:
-* Utilisation de Python pour créer une série de mini-jeux, montrant une maîtrise du développement logiciel et de la logique de jeu.
+* Implémenter des conceptions simples :
+Le projet consiste en une série de mini-jeux développés en Python. Chaque jeu (Devinettes, Allumettes, Morpion, Puissance 4) représente une implémentation de concepts de jeu simples et classiques.
 
-Conception et gestion de bases de données:
-* Si le projet implique la sauvegarde des scores ou des états de jeu, cela pourrait indiquer des compétences en gestion de données.
+* Faire des essais et évaluer les résultats en regard des spécifications :
+Bien que les détails spécifiques des tests ne soient pas mentionnés, le développement de jeux interactifs implique généralement des cycles d'essais et d'évaluations pour assurer le bon fonctionnement et l'engagement des utilisateurs.
 
-Développement de composants d'interface utilisateur:
-* Développement d'interfaces utilisateur pour les jeux, probablement en utilisant des bibliothèques graphiques Python.
+* Analyser un problème avec méthode (découpage en éléments algorithmiques simples, structure de données...) :
+La création de jeux comme le Morpion ou Puissance 4 nécessite une compréhension claire des structures de données (comme les grilles) et des algorithmes (pour vérifier les conditions de victoire, par exemple).
 
-Test et déploiement d'applications logicielles:
-* Mise en œuvre de tests pour assurer la fonctionnalité et la fiabilité des jeux.
-* Compétences en matière de déploiement et de distribution de l'application logicielle.
-
-Gestion de projet et travail en équipe:
-* Organisation et structuration du code indiquant une approche méthodique, essentielle pour le travail en équipe et la gestion de projet.
-
-Veille technologique et adaptation aux évolutions:
-* Utilisation de Python, un langage polyvalent et populaire, reflétant une veille technologique et une adaptation aux tendances actuelles du développement logiciel.
-
-Communication et documentation:
-* Documentation du code et des fonctionnalités pour faciliter la maintenance et les mises à jour futures.
-
-Respect des normes et des réglementations:
-* Développement conforme aux normes de développement logiciel et potentiellement aux réglementations liées aux jeux numériques.
+* Comparer des algorithmes pour des problèmes classiques :
+Bien que la comparaison directe d'algorithmes ne soit pas explicitement mentionnée, la diversité des jeux implique l'utilisation de différentes approches algorithmiques pour chaque jeu, ce qui peut sous-entendre une compréhension des avantages et inconvénients de chaque méthode. 
